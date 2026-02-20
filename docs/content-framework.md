@@ -29,6 +29,26 @@ They are structured financial explainers.
 
 ---
 
+## Tone Identity: Rational Friend
+
+The voice of this blog should feel like:
+
+- A calm, well-informed friend
+- Explaining without ego
+- Correcting gently
+- Avoiding extremes
+- Encouraging long-term thinking
+
+Avoid:
+
+- Aggressive language
+- Mocking financial mistakes
+- Overconfidence
+- Emotional market reactions
+- Fear-based persuasion
+
+---
+
 ## Style Rules
 
 - Short paragraphs
